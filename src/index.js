@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom";
 import DatePicker from "react-datepicker";
 import { FixedSizeList as List } from "react-window";
+import format from "date-fns/format";
 import useWindowSize from "./use-window-size";
 
 import "react-datepicker/dist/react-datepicker.css";
@@ -9,7 +10,7 @@ import "./styles.css";
 
 const rowHeight = 35;
 
-const readings = [
+const readingsAll = [
   {
     date: "0413",
     text: "1 Samuel 18-20",
@@ -24,6 +25,36 @@ const readings = [
     date: "0413",
     text: "Psalms 59",
     url: "https://www.bible.com/bible/59/PSA.59"
+  },
+  {
+    date: "0414",
+    text: "1 Samuel 21-24",
+    url: "https://www.bible.com/bible/59/1SA.21"
+  },
+  {
+    date: "0415",
+    text: "Psalms 7",
+    url: "https://www.bible.com/bible/59/PSA.7"
+  },
+  {
+    date: "0415",
+    text: "Psalms 27",
+    url: "https://www.bible.com/bible/59/PSA.27"
+  },
+  {
+    date: "0415",
+    text: "Psalms 31",
+    url: "https://www.bible.com/bible/59/PSA.31"
+  },
+  {
+    date: "0415",
+    text: "Psalms 34",
+    url: "https://www.bible.com/bible/59/PSA.34"
+  },
+  {
+    date: "0415",
+    text: "Psalms 52",
+    url: "https://www.bible.com/bible/59/PSA.52"
   }
 ];
 
@@ -31,11 +62,11 @@ const Row = ({ index, style }) => (
   <div className={index % 2 ? "ListItemOdd" : "ListItemEven"} style={style}>
     <a
       className="bible-link"
-      href={readings[index].url}
+      href={readingsAll[index].url}
       rel="noreferrer"
       target="_blank"
     >
-      {readings[index].text}
+      {readingsAll[index].text}
     </a>
   </div>
 );
@@ -43,6 +74,11 @@ const Row = ({ index, style }) => (
 const App = () => {
   const size = useWindowSize();
   const [date, setDate] = useState(new Date());
+
+  const dateKey = format(date, "MMdd");
+  console.log("Current dateKey is " + dateKey);
+
+  const readings = readingsAll.filter((reading) => reading.date === dateKey);
 
   useEffect(() => {
     document.title = "JTTB Daily Reading";
