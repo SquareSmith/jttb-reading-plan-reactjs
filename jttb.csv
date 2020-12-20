@@ -1,0 +1,457 @@
+date,text,url
+0101,Genesis 1-3,https://www.bible.com/bible/59/GEN.1
+0102,Genesis 4-7,https://www.bible.com/bible/59/GEN.4
+0103,Genesis 8-11,https://www.bible.com/bible/59/GEN.8
+0104,Job 1-5,https://www.bible.com/bible/59/JOB.1
+0105,Job 6-9,https://www.bible.com/bible/59/JOB.6
+0106,Job 10-13,https://www.bible.com/bible/59/JOB.10
+0107,Job 14-16,https://www.bible.com/bible/59/JOB.14
+0108,Job 17-20,https://www.bible.com/bible/59/JOB.17
+0109,Job 21-23,https://www.bible.com/bible/59/JOB.21
+0110,Job 24-28,https://www.bible.com/bible/59/JOB.24
+0111,Job 29-31,https://www.bible.com/bible/59/JOB.29
+0112,Job 32-34,https://www.bible.com/bible/59/JOB.32
+0113,Job 35-37,https://www.bible.com/bible/59/JOB.35
+0114,Job 38-39,https://www.bible.com/bible/59/JOB.38
+0115,Job 40-42,https://www.bible.com/bible/59/JOB.40
+0116,Genesis 12-15,https://www.bible.com/bible/59/GEN.12
+0117,Genesis 16-18,https://www.bible.com/bible/59/GEN.16
+0118,Genesis 19-21,https://www.bible.com/bible/59/GEN.19
+0119,Genesis 22-24,https://www.bible.com/bible/59/GEN.22
+0120,Genesis 25-26,https://www.bible.com/bible/59/GEN.25
+0121,Genesis 27-29,https://www.bible.com/bible/59/GEN.27
+0122,Genesis 30-31,https://www.bible.com/bible/59/GEN.30
+0123,Genesis 32-34,https://www.bible.com/bible/59/GEN.32
+0124,Genesis 35-37,https://www.bible.com/bible/59/GEN.35
+0125,Genesis 38-40,https://www.bible.com/bible/59/GEN.38
+0126,Genesis 41-42,https://www.bible.com/bible/59/GEN.41
+0127,Genesis 43-45,https://www.bible.com/bible/59/GEN.43
+0128,Genesis 46-47,https://www.bible.com/bible/59/GEN.46
+0129,Genesis 48-50,https://www.bible.com/bible/59/GEN.48
+0130,Exodus 1-3,https://www.bible.com/bible/59/EXO.1
+0131,Exodus 4-6,https://www.bible.com/bible/59/EXO.4
+0201,Exodus 7-9,https://www.bible.com/bible/59/EXO.7
+0202,Exodus 10-12,https://www.bible.com/bible/59/EXO.10
+0203,Exodus 13-15,https://www.bible.com/bible/59/EXO.13
+0204,Exodus 16-18,https://www.bible.com/bible/59/EXO.16
+0205,Exodus 19-21,https://www.bible.com/bible/59/EXO.19
+0206,Exodus 22-24,https://www.bible.com/bible/59/EXO.22
+0207,Exodus 25-27,https://www.bible.com/bible/59/EXO.25
+0208,Exodus 28-29,https://www.bible.com/bible/59/EXO.28
+0209,Exodus 30-32,https://www.bible.com/bible/59/EXO.30
+0210,Exodus 33-35,https://www.bible.com/bible/59/EXO.33
+0211,Exodus 36-38,https://www.bible.com/bible/59/EXO.36
+0212,Exodus 39-40,https://www.bible.com/bible/59/EXO.39
+0213,Leviticus 1-4,https://www.bible.com/bible/59/LEV.1
+0214,Leviticus 5-7,https://www.bible.com/bible/59/LEV.5
+0215,Leviticus 8-10,https://www.bible.com/bible/59/LEV.8
+0216,Leviticus 11-13,https://www.bible.com/bible/59/LEV.11
+0217,Leviticus 14-15,https://www.bible.com/bible/59/LEV.14
+0218,Leviticus 16-18,https://www.bible.com/bible/59/LEV.16
+0219,Leviticus 19-21,https://www.bible.com/bible/59/LEV.19
+0220,Leviticus 22-23,https://www.bible.com/bible/59/LEV.22
+0221,Leviticus 24-25,https://www.bible.com/bible/59/LEV.24
+0222,Leviticus 26-27,https://www.bible.com/bible/59/LEV.26
+0223,Numbers 1-2,https://www.bible.com/bible/59/NUM.1
+0224,Numbers 3-4,https://www.bible.com/bible/59/NUM.3
+0225,Numbers 5-6,https://www.bible.com/bible/59/NUM.5
+0226,Numbers 7,https://www.bible.com/bible/59/NUM.7
+0227,Numbers 8-10,https://www.bible.com/bible/59/NUM.8
+0228,Numbers 11-13,https://www.bible.com/bible/59/NUM.11
+0301,Numbers 14-15,https://www.bible.com/bible/59/NUM.14
+0301,Psalms 90,https://www.bible.com/bible/59/PSA.90
+0302,Numbers 16-17,https://www.bible.com/bible/59/NUM.16
+0303,Numbers 18-20,https://www.bible.com/bible/59/NUM.18
+0304,Numbers 21-22,https://www.bible.com/bible/59/NUM.21
+0305,Numbers 23-25,https://www.bible.com/bible/59/NUM.23
+0306,Numbers 26-27,https://www.bible.com/bible/59/NUM.26
+0307,Numbers 28-30,https://www.bible.com/bible/59/NUM.28
+0308,Numbers 31-32,https://www.bible.com/bible/59/NUM.31
+0309,Numbers 33-34,https://www.bible.com/bible/59/NUM.33
+0310,Numbers 35-36,https://www.bible.com/bible/59/NUM.35
+0311,Deuteronomy 1-2,https://www.bible.com/bible/59/DEU.1
+0312,Deuteronomy 3-4,https://www.bible.com/bible/59/DEU.3
+0313,Deuteronomy 5-7,https://www.bible.com/bible/59/DEU.5
+0314,Deuteronomy 8-10,https://www.bible.com/bible/59/DEU.8
+0315,Deuteronomy 11-13,https://www.bible.com/bible/59/DEU.11
+0316,Deuteronomy 14-16,https://www.bible.com/bible/59/DEU.14
+0317,Deuteronomy 17-20,https://www.bible.com/bible/59/DEU.17
+0318,Deuteronomy 21-23,https://www.bible.com/bible/59/DEU.21
+0319,Deuteronomy 24-27,https://www.bible.com/bible/59/DEU.24
+0320,Deuteronomy 28-29,https://www.bible.com/bible/59/DEU.28
+0321,Deuteronomy 30-31,https://www.bible.com/bible/59/DEU.30
+0322,Deuteronomy 32-34,https://www.bible.com/bible/59/DEU.32
+0322,Psalms 91,https://www.bible.com/bible/59/PSA.91
+0323,Joshua 1-4,https://www.bible.com/bible/59/JOS.1
+0324,Joshua 5-8,https://www.bible.com/bible/59/JOS.5
+0325,Joshua 9-11,https://www.bible.com/bible/59/JOS.9
+0326,Joshua 12-15,https://www.bible.com/bible/59/JOS.12
+0327,Joshua 16-18,https://www.bible.com/bible/59/JOS.16
+0328,Joshua 19-21,https://www.bible.com/bible/59/JOS.19
+0329,Joshua 22-24,https://www.bible.com/bible/59/JOS.22
+0330,Judges 1-2,https://www.bible.com/bible/59/JDG.1
+0331,Judges 3-5,https://www.bible.com/bible/59/JDG.3
+0401,Judges 6-7,https://www.bible.com/bible/59/JDG.6
+0402,Judges 8-9,https://www.bible.com/bible/59/JDG.8
+0403,Judges 10-12,https://www.bible.com/bible/59/JDG.10
+0404,Judges 13-15,https://www.bible.com/bible/59/JDG.13
+0405,Judges 16-18,https://www.bible.com/bible/59/JDG.16
+0406,Judges 19-21,https://www.bible.com/bible/59/JDG.19
+0407,Ruth 1-4,https://www.bible.com/bible/59/RUT.1
+0408,1 Samuel 1-3,https://www.bible.com/bible/59/1SA.1
+0409,1 Samuel 4-8,https://www.bible.com/bible/59/1SA.4
+0410,1 Samuel 9-12,https://www.bible.com/bible/59/1SA.9
+0411,1 Samuel 13-14,https://www.bible.com/bible/59/1SA.13
+0412,1 Samuel 15-17,https://www.bible.com/bible/59/1SA.15
+0413,1 Samuel 18-20,https://www.bible.com/bible/59/1SA.18
+0413,Psalms 11,https://www.bible.com/bible/59/PSA.11
+0413,Psalms 59,https://www.bible.com/bible/59/PSA.59
+0414,1 Samuel 21-24,https://www.bible.com/bible/59/1SA.21
+0415,Psalms 7,https://www.bible.com/bible/59/PSA.7
+0415,Psalms 27,https://www.bible.com/bible/59/PSA.27
+0415,Psalms 31,https://www.bible.com/bible/59/PSA.31
+0415,Psalms 34,https://www.bible.com/bible/59/PSA.34
+0415,Psalms 52,https://www.bible.com/bible/59/PSA.52
+0416,Psalms 56,https://www.bible.com/bible/59/PSA.56
+0416,Psalms 120,https://www.bible.com/bible/59/PSA.120
+0416,Psalms 140-142,https://www.bible.com/bible/59/PSA.140
+0417,1 Samuel 25-27,https://www.bible.com/bible/59/1SA.25
+0418,Psalms 17,https://www.bible.com/bible/59/PSA.17
+0418,Psalms 35,https://www.bible.com/bible/59/PSA.35
+0418,Psalms 54,https://www.bible.com/bible/59/PSA.54
+0418,Psalms 63,https://www.bible.com/bible/59/PSA.63
+0419,1 Samuel 28-31,https://www.bible.com/bible/59/1SA.28
+0419,Psalms 18,https://www.bible.com/bible/59/PSA.18
+0420,Psalms 121,https://www.bible.com/bible/59/PSA.121
+0420,Psalms 123-125,https://www.bible.com/bible/59/PSA.123
+0420,Psalms 128-130,https://www.bible.com/bible/59/PSA.128
+0421,2 Samuel 1-4,https://www.bible.com/bible/59/2SA.1
+0422,Psalms 6,https://www.bible.com/bible/59/PSA.6
+0422,Psalms 8-10,https://www.bible.com/bible/59/PSA.8
+0422,Psalms 14,https://www.bible.com/bible/59/PSA.14
+0422,Psalms 16,https://www.bible.com/bible/59/PSA.16
+0422,Psalms 19,https://www.bible.com/bible/59/PSA.19
+0422,Psalms 21,https://www.bible.com/bible/59/PSA.21
+0423,Psalms 43-45,https://www.bible.com/bible/59/PSA.43
+0423,Psalms 49,https://www.bible.com/bible/59/PSA.49
+0423,Psalms 84-85,https://www.bible.com/bible/59/PSA.84
+0423,Psalms 87,https://www.bible.com/bible/59/PSA.87
+0424,Psalms 73,https://www.bible.com/bible/59/PSA.73
+0424,Psalms 77-78,https://www.bible.com/bible/59/PSA.77
+0425,Psalms 81,https://www.bible.com/bible/59/PSA.81
+0425,Psalms 88,https://www.bible.com/bible/59/PSA.88
+0425,Psalms 92-93,https://www.bible.com/bible/59/PSA.92
+0426,Psalms 102-104,https://www.bible.com/bible/59/PSA.102
+0427,2 Samuel 5-6,https://www.bible.com/bible/59/2SA.5
+0427,Psalms 133,https://www.bible.com/bible/59/PSA.133
+0428,Psalms 106-107,https://www.bible.com/bible/59/PSA.106
+0429,Psalms 1-2,https://www.bible.com/bible/59/PSA.1
+0429,Psalms 15,https://www.bible.com/bible/59/PSA.15
+0429,Psalms 22-24,https://www.bible.com/bible/59/PSA.22
+0429,Psalms 47,https://www.bible.com/bible/59/PSA.47
+0429,Psalms 68,https://www.bible.com/bible/59/PSA.68
+0430,Psalms 89,https://www.bible.com/bible/59/PSA.89
+0430,Psalms 96,https://www.bible.com/bible/59/PSA.96
+0430,Psalms 100,https://www.bible.com/bible/59/PSA.100
+0501,Psalms 101,https://www.bible.com/bible/59/PSA.101
+0501,Psalms 105,https://www.bible.com/bible/59/PSA.105
+0501,Psalms 132,https://www.bible.com/bible/59/PSA.132
+0502,2 Samuel 7,https://www.bible.com/bible/59/2SA.7
+0502,Psalms 25,https://www.bible.com/bible/59/PSA.25
+0502,Psalms 29,https://www.bible.com/bible/59/PSA.29
+0502,Psalms 33,https://www.bible.com/bible/59/PSA.33
+0503,2 Samuel 8-9,https://www.bible.com/bible/59/2SA.8
+0503,Psalms 36,https://www.bible.com/bible/59/PSA.36
+0503,Psalms 39,https://www.bible.com/bible/59/PSA.39
+0504,Psalms 20,https://www.bible.com/bible/59/PSA.20
+0504,Psalms 50,https://www.bible.com/bible/59/PSA.50
+0504,Psalms 53,https://www.bible.com/bible/59/PSA.53
+0504,Psalms 60,https://www.bible.com/bible/59/PSA.60
+0504,Psalms 75,https://www.bible.com/bible/59/PSA.75
+0505,2 Samuel 10,https://www.bible.com/bible/59/2SA.10
+0505,Psalms 65-67,https://www.bible.com/bible/59/PSA.65
+0505,Psalms 69-70,https://www.bible.com/bible/59/PSA.69
+0506,2 Samuel 11-12,https://www.bible.com/bible/59/2SA.11
+0506,Psalms 32,https://www.bible.com/bible/59/PSA.32
+0506,Psalms 51,https://www.bible.com/bible/59/PSA.51
+0506,Psalms 86,https://www.bible.com/bible/59/PSA.86
+0506,Psalms 122,https://www.bible.com/bible/59/PSA.122
+0507,2 Samuel 13-15,https://www.bible.com/bible/59/2SA.13
+0508,Psalms 3-4,https://www.bible.com/bible/59/PSA.3
+0508,Psalms 12-13,https://www.bible.com/bible/59/PSA.12
+0508,Psalms 28,https://www.bible.com/bible/59/PSA.28
+0508,Psalms 55,https://www.bible.com/bible/59/PSA.55
+0509,2 Samuel 16-18,https://www.bible.com/bible/59/2SA.16
+0510,Psalms 26,https://www.bible.com/bible/59/PSA.26
+0510,Psalms 40,https://www.bible.com/bible/59/PSA.40
+0510,Psalms 58,https://www.bible.com/bible/59/PSA.58
+0510,Psalms 61-62,https://www.bible.com/bible/59/PSA.61
+0510,Psalms 64,https://www.bible.com/bible/59/PSA.64
+0511,2 Samuel 19-21,https://www.bible.com/bible/59/2SA.19
+0512,Psalms 5,https://www.bible.com/bible/59/PSA.5
+0512,Psalms 38,https://www.bible.com/bible/59/PSA.38
+0512,Psalms 41-42,https://www.bible.com/bible/59/PSA.41
+0513,2 Samuel 22-23,https://www.bible.com/bible/59/2SA.22
+0513,Psalms 57,https://www.bible.com/bible/59/PSA.57
+0514,Psalms 95,https://www.bible.com/bible/59/PSA.95
+0514,Psalms 97-99,https://www.bible.com/bible/59/PSA.97
+0515,2 Samuel 24,https://www.bible.com/bible/59/2SA.24
+0515,Psalms 30,https://www.bible.com/bible/59/PSA.30
+0515,Psalms 108-110,https://www.bible.com/bible/59/PSA.108
+0516,Psalms 127,https://www.bible.com/bible/59/PSA.127
+0516,Psalms 131,https://www.bible.com/bible/59/PSA.131
+0516,Psalms 138-139,https://www.bible.com/bible/59/PSA.138
+0516,Psalms 143-145,https://www.bible.com/bible/59/PSA.143
+0517,Psalms 111-118,https://www.bible.com/bible/59/PSA.111
+0518,1 Kings 1-2,https://www.bible.com/bible/59/1KI.1
+0519,Psalms 37,https://www.bible.com/bible/59/PSA.37
+0519,Psalms 71,https://www.bible.com/bible/59/PSA.71
+0519,Psalms 94,https://www.bible.com/bible/59/PSA.94
+0520,Psalms 119:1-88,https://www.bible.com/bible/59/PSA.119.1
+0521,Psalms 119:89-176,https://www.bible.com/bible/59/PSA.119.89
+0522,1 Kings 3-4,https://www.bible.com/bible/59/1KI.3
+0522,Psalms 72,https://www.bible.com/bible/59/PSA.72
+0523,Song of Solomon 1-8,https://www.bible.com/bible/59/SNG.1
+0524,Proverbs 1-3,https://www.bible.com/bible/59/PRO.1
+0525,Proverbs 4-6,https://www.bible.com/bible/59/PRO.4
+0526,Proverbs 7-9,https://www.bible.com/bible/59/PRO.7
+0527,Proverbs 10-12,https://www.bible.com/bible/59/PRO.10
+0528,Proverbs 13-15,https://www.bible.com/bible/59/PRO.13
+0529,Proverbs 16-18,https://www.bible.com/bible/59/PRO.16
+0530,Proverbs 19-21,https://www.bible.com/bible/59/PRO.19
+0531,Proverbs 22-24,https://www.bible.com/bible/59/PRO.22
+0601,1 Kings 5-7,https://www.bible.com/bible/59/1KI.5
+0602,1 Kings 8,https://www.bible.com/bible/59/1KI.8
+0602,Psalms 136,https://www.bible.com/bible/59/PSA.136
+0603,Psalms 134,https://www.bible.com/bible/59/PSA.134
+0603,Psalms 146-150,https://www.bible.com/bible/59/PSA.146
+0604,1 Kings 9,https://www.bible.com/bible/59/1KI.9
+0604,Proverbs 25-26,https://www.bible.com/bible/59/PRO.25
+0605,Proverbs 27-29,https://www.bible.com/bible/59/PRO.27
+0606,Ecclesiastes 1-6,https://www.bible.com/bible/59/ECC.1
+0607,Ecclesiastes 7-12,https://www.bible.com/bible/59/ECC.7
+0608,1 Kings 10-11,https://www.bible.com/bible/59/1KI.10
+0609,Proverbs 30-31,https://www.bible.com/bible/59/PRO.30
+0610,1 Kings 12-14,https://www.bible.com/bible/59/1KI.12
+0611,1 Kings 15-16,https://www.bible.com/bible/59/1KI.15
+0612,1 Kings 17-19,https://www.bible.com/bible/59/1KI.17
+0613,1 Kings 20-21,https://www.bible.com/bible/59/1KI.20
+0614,1 Kings 22,https://www.bible.com/bible/59/1KI.22
+0615,2 Kings 1-4,https://www.bible.com/bible/59/2KI.1
+0616,2 Kings 5-8,https://www.bible.com/bible/59/2KI.5
+0617,2 Kings 9-11,https://www.bible.com/bible/59/2KI.9
+0618,2 Kings 12,https://www.bible.com/bible/59/2KI.12
+0618,Joel 1-3,https://www.bible.com/bible/59/JOL.1
+0619,2 Kings 13-14,https://www.bible.com/bible/59/2KI.13
+0619,Jonah 1-4,https://www.bible.com/bible/59/JON.1
+0620,2 Kings 15,https://www.bible.com/bible/59/2KI.15
+0621,Isaiah 1-4,https://www.bible.com/bible/59/ISA.1
+0622,Isaiah 5-8,https://www.bible.com/bible/59/ISA.5
+0623,Amos 1-5,https://www.bible.com/bible/59/AMO.1
+0624,Amos 6-9,https://www.bible.com/bible/59/AMO.6
+0625,Isaiah 9-12,https://www.bible.com/bible/59/ISA.9
+0626,Micah 1-7,https://www.bible.com/bible/59/MIC.1
+0627,2 Kings 16-17,https://www.bible.com/bible/59/2KI.16
+0628,Isaiah 13-17,https://www.bible.com/bible/59/ISA.13
+0629,Isaiah 18-22,https://www.bible.com/bible/59/ISA.18
+0630,Isaiah 23-27,https://www.bible.com/bible/59/ISA.23
+0701,Hosea 1-7,https://www.bible.com/bible/59/HOS.1
+0702,Hosea 8-14,https://www.bible.com/bible/59/HOS.8
+0703,Isaiah 28-30,https://www.bible.com/bible/59/ISA.28
+0704,Isaiah 31-35,https://www.bible.com/bible/59/ISA.31
+0705,2 Kings 18-19,https://www.bible.com/bible/59/2KI.18
+0705,Psalms 48,https://www.bible.com/bible/59/PSA.48
+0706,Isaiah 36-37,https://www.bible.com/bible/59/ISA.36
+0707,Isaiah 38-39,https://www.bible.com/bible/59/ISA.38
+0707,Psalms 46,https://www.bible.com/bible/59/PSA.46
+0707,Psalms 76,https://www.bible.com/bible/59/PSA.76
+0707,Psalms 80,https://www.bible.com/bible/59/PSA.80
+0707,Psalms 135,https://www.bible.com/bible/59/PSA.135
+0708,Isaiah 40-43,https://www.bible.com/bible/59/ISA.40
+0709,Isaiah 44-48,https://www.bible.com/bible/59/ISA.44
+0710,Isaiah 49-53,https://www.bible.com/bible/59/ISA.49
+0711,Isaiah 54-58,https://www.bible.com/bible/59/ISA.54
+0712,Isaiah 59-63,https://www.bible.com/bible/59/ISA.59
+0713,Isaiah 64-66,https://www.bible.com/bible/59/ISA.64
+0714,2 Kings 20-21,https://www.bible.com/bible/59/2KI.20
+0715,Nahum 1-3,https://www.bible.com/bible/59/NAM.1
+0716,2 Kings 22-23,https://www.bible.com/bible/59/2KI.22
+0716,Zephaniah 1-3,https://www.bible.com/bible/59/ZEP.1
+0717,Jeremiah 1-3,https://www.bible.com/bible/59/JER.1
+0718,Jeremiah 4-6,https://www.bible.com/bible/59/JER.4
+0719,Jeremiah 7-9,https://www.bible.com/bible/59/JER.7
+0720,Jeremiah 10-13,https://www.bible.com/bible/59/JER.10
+0721,Jeremiah 14-17,https://www.bible.com/bible/59/JER.14
+0722,Jeremiah 18-22,https://www.bible.com/bible/59/JER.18
+0723,Jeremiah 23-25,https://www.bible.com/bible/59/JER.23
+0724,Jeremiah 26-29,https://www.bible.com/bible/59/JER.26
+0725,Jeremiah 30-31,https://www.bible.com/bible/59/JER.30
+0726,Jeremiah 32-34,https://www.bible.com/bible/59/JER.32
+0727,Jeremiah 35-37,https://www.bible.com/bible/59/JER.35
+0728,Jeremiah 38-40,https://www.bible.com/bible/59/JER.38
+0728,Psalms 74,https://www.bible.com/bible/59/PSA.74
+0728,Psalms 79,https://www.bible.com/bible/59/PSA.79
+0729,2 Kings 24-25,https://www.bible.com/bible/59/2KI.24
+0729,Obadiah 1,https://www.bible.com/bible/59/OBA.1
+0729,Psalms 82-83,https://www.bible.com/bible/59/PSA.82
+0730,Habakkuk 1-3,https://www.bible.com/bible/59/HAB.1
+0731,Jeremiah 41-45,https://www.bible.com/bible/59/JER.41
+0801,Jeremiah 46-48,https://www.bible.com/bible/59/JER.46
+0802,Jeremiah 49-50,https://www.bible.com/bible/59/JER.49
+0803,Jeremiah 51-52,https://www.bible.com/bible/59/JER.51
+0804,Lamentations 1:1-3:36,https://www.bible.com/bible/59/LAM.1.1
+0805,Lamentations 3:37-5:22,https://www.bible.com/bible/59/LAM.3.37
+0806,Ezekiel 1-4,https://www.bible.com/bible/59/EZK.1
+0807,Ezekiel 5-8,https://www.bible.com/bible/59/EZK.5
+0808,Ezekiel 9-12,https://www.bible.com/bible/59/EZK.9
+0809,Ezekiel 13-15,https://www.bible.com/bible/59/EZK.13
+0810,Ezekiel 16-17,https://www.bible.com/bible/59/EZK.16
+0811,Ezekiel 18-19,https://www.bible.com/bible/59/EZK.18
+0812,Ezekiel 20-21,https://www.bible.com/bible/59/EZK.20
+0813,Ezekiel 22-23,https://www.bible.com/bible/59/EZK.22
+0814,Ezekiel 24-27,https://www.bible.com/bible/59/EZK.24
+0815,Ezekiel 28-31,https://www.bible.com/bible/59/EZK.28
+0816,Ezekiel 32-34,https://www.bible.com/bible/59/EZK.32
+0817,Ezekiel 35-37,https://www.bible.com/bible/59/EZK.35
+0818,Ezekiel 38-39,https://www.bible.com/bible/59/EZK.38
+0819,Ezekiel 40-41,https://www.bible.com/bible/59/EZK.40
+0820,Ezekiel 42-43,https://www.bible.com/bible/59/EZK.42
+0821,Ezekiel 44-45,https://www.bible.com/bible/59/EZK.44
+0822,Ezekiel 46-48,https://www.bible.com/bible/59/EZK.46
+0823,Daniel 1-3,https://www.bible.com/bible/59/DAN.1
+0824,Daniel 4-6,https://www.bible.com/bible/59/DAN.4
+0825,Daniel 7-9,https://www.bible.com/bible/59/DAN.7
+0826,Daniel 10-12,https://www.bible.com/bible/59/DAN.10
+0827,1 Chronicles 1-2,https://www.bible.com/bible/59/1CH.1
+0828,1 Chronicles 3-5,https://www.bible.com/bible/59/1CH.3
+0829,1 Chronicles 6,https://www.bible.com/bible/59/1CH.6
+0830,1 Chronicles 7-9,https://www.bible.com/bible/59/1CH.7
+0831,1 Chronicles 10-12,https://www.bible.com/bible/59/1CH.10
+0901,1 Chronicles 13-16,https://www.bible.com/bible/59/1CH.13
+0902,1 Chronicles 17-20,https://www.bible.com/bible/59/1CH.17
+0903,1 Chronicles 21-23,https://www.bible.com/bible/59/1CH.21
+0904,1 Chronicles 24-26,https://www.bible.com/bible/59/1CH.24
+0905,1 Chronicles 27-29,https://www.bible.com/bible/59/1CH.27
+0906,2 Chronicles 1-3,https://www.bible.com/bible/59/2CH.1
+0907,2 Chronicles 4-6,https://www.bible.com/bible/59/2CH.4
+0908,2 Chronicles 7-9,https://www.bible.com/bible/59/2CH.7
+0909,2 Chronicles 10-12,https://www.bible.com/bible/59/2CH.10
+0910,2 Chronicles 13-15,https://www.bible.com/bible/59/2CH.13
+0911,2 Chronicles 16-18,https://www.bible.com/bible/59/2CH.16
+0912,2 Chronicles 19-21,https://www.bible.com/bible/59/2CH.19
+0913,2 Chronicles 22-24,https://www.bible.com/bible/59/2CH.22
+0914,2 Chronicles 25-27,https://www.bible.com/bible/59/2CH.25
+0915,2 Chronicles 28-30,https://www.bible.com/bible/59/2CH.28
+0916,2 Chronicles 31-33,https://www.bible.com/bible/59/2CH.31
+0917,2 Chronicles 34-36,https://www.bible.com/bible/59/2CH.34
+0918,Ezra 1-3,https://www.bible.com/bible/59/EZR.1
+0919,Ezra 4-6,https://www.bible.com/bible/59/EZR.4
+0919,Psalms 137,https://www.bible.com/bible/59/PSA.137
+0920,Haggai 1-2,https://www.bible.com/bible/59/HAG.1
+0921,Zechariah 1-7,https://www.bible.com/bible/59/ZEC.1
+0922,Zechariah 8-14,https://www.bible.com/bible/59/ZEC.8
+0923,Esther 1-5,https://www.bible.com/bible/59/EST.1
+0924,Esther 6-10,https://www.bible.com/bible/59/EST.6
+0925,Ezra 7-10,https://www.bible.com/bible/59/EZR.7
+0926,Nehemiah 1-5,https://www.bible.com/bible/59/NEH.1
+0927,Nehemiah 6-7,https://www.bible.com/bible/59/NEH.6
+0928,Nehemiah 8-10,https://www.bible.com/bible/59/NEH.8
+0929,Nehemiah 11-13,https://www.bible.com/bible/59/NEH.11
+0929,Psalms 126,https://www.bible.com/bible/59/PSA.126
+0930,Malachi 1-4,https://www.bible.com/bible/59/MAL.1
+1001,Matthew 1-3,https://www.bible.com/bible/59/MAT.1
+1002,Matthew 4-5,https://www.bible.com/bible/59/MAT.4
+1003,Matthew 6-7,https://www.bible.com/bible/59/MAT.6
+1004,Matthew 8-9,https://www.bible.com/bible/59/MAT.8
+1005,Matthew 10-11,https://www.bible.com/bible/59/MAT.10
+1006,Matthew 12-13,https://www.bible.com/bible/59/MAT.12
+1007,Matthew 14-15,https://www.bible.com/bible/59/MAT.14
+1008,Matthew 16-17,https://www.bible.com/bible/59/MAT.16
+1009,Matthew 18-19,https://www.bible.com/bible/59/MAT.18
+1010,Matthew 20-21,https://www.bible.com/bible/59/MAT.20
+1011,Matthew 22-23,https://www.bible.com/bible/59/MAT.22
+1012,Matthew 24-25,https://www.bible.com/bible/59/MAT.24
+1013,Matthew 26,https://www.bible.com/bible/59/MAT.26
+1014,Matthew 27-28,https://www.bible.com/bible/59/MAT.27
+1015,Mark 1-2,https://www.bible.com/bible/59/MRK.1
+1016,Mark 3-4,https://www.bible.com/bible/59/MRK.3
+1017,Mark 5-6,https://www.bible.com/bible/59/MRK.5
+1018,Mark 7-8,https://www.bible.com/bible/59/MRK.7
+1019,Mark 9-10,https://www.bible.com/bible/59/MRK.9
+1020,Mark 11-12,https://www.bible.com/bible/59/MRK.11
+1021,Mark 13-14,https://www.bible.com/bible/59/MRK.13
+1022,Mark 15-16,https://www.bible.com/bible/59/MRK.15
+1023,Luke 1,https://www.bible.com/bible/59/LUK.1
+1024,Luke 2-3,https://www.bible.com/bible/59/LUK.2
+1025,Luke 4-5,https://www.bible.com/bible/59/LUK.4
+1026,Luke 6-7,https://www.bible.com/bible/59/LUK.6
+1027,Luke 8-9,https://www.bible.com/bible/59/LUK.8
+1028,Luke 10-11,https://www.bible.com/bible/59/LUK.10
+1029,Luke 12-13,https://www.bible.com/bible/59/LUK.12
+1030,Luke 14-15,https://www.bible.com/bible/59/LUK.14
+1031,Luke 16-17,https://www.bible.com/bible/59/LUK.16
+1101,Luke 18-19,https://www.bible.com/bible/59/LUK.18
+1102,Luke 20-21,https://www.bible.com/bible/59/LUK.20
+1103,Luke 22,https://www.bible.com/bible/59/LUK.22
+1104,Luke 23-24,https://www.bible.com/bible/59/LUK.23
+1105,Acts 1-3,https://www.bible.com/bible/59/ACT.1
+1106,Acts 4-6,https://www.bible.com/bible/59/ACT.4
+1107,Acts 7-8,https://www.bible.com/bible/59/ACT.7
+1108,Acts 9-10,https://www.bible.com/bible/59/ACT.9
+1109,Acts 11-12,https://www.bible.com/bible/59/ACT.11
+1110,Acts 13-14,https://www.bible.com/bible/59/ACT.13
+1111,James 1-5,https://www.bible.com/bible/59/JAS.1
+1112,Acts 15-16,https://www.bible.com/bible/59/ACT.15
+1113,Galatians 1-3,https://www.bible.com/bible/59/GAL.1
+1114,Galatians 4-6,https://www.bible.com/bible/59/GAL.4
+1115,Acts 17-18:18,https://www.bible.com/bible/59/ACT.17
+1116,1 Thessalonians 1-5,https://www.bible.com/bible/59/1TH.1
+1116,2 Thessalonians 1-3,https://www.bible.com/bible/59/2TH.1
+1117,Acts 18:19-19:41,https://www.bible.com/bible/59/ACT.18.19
+1118,1 Corinthians 1-4,https://www.bible.com/bible/59/1CO.1
+1119,1 Corinthians 5-8,https://www.bible.com/bible/59/1CO.5
+1120,1 Corinthians 9-11,https://www.bible.com/bible/59/1CO.9
+1121,1 Corinthians 12-14,https://www.bible.com/bible/59/1CO.12
+1122,1 Corinthians 15-16,https://www.bible.com/bible/59/1CO.15
+1123,2 Corinthians 1-4,https://www.bible.com/bible/59/2CO.1
+1124,2 Corinthians 5-9,https://www.bible.com/bible/59/2CO.5
+1125,2 Corinthians 10-13,https://www.bible.com/bible/59/2CO.10
+1126,Romans 1-3,https://www.bible.com/bible/59/ROM.1
+1127,Romans 4-7,https://www.bible.com/bible/59/ROM.4
+1128,Romans 8-10,https://www.bible.com/bible/59/ROM.8
+1129,Romans 11-13,https://www.bible.com/bible/59/ROM.11
+1130,Romans 14-16,https://www.bible.com/bible/59/ROM.14
+1201,Acts 20-23,https://www.bible.com/bible/59/ACT.20
+1202,Acts 24-26,https://www.bible.com/bible/59/ACT.24
+1203,Acts 27-28,https://www.bible.com/bible/59/ACT.27
+1204,Colossians 1-4,https://www.bible.com/bible/59/COL.1
+1204,Philemon 1,https://www.bible.com/bible/59/PHM.1
+1205,Ephesians 1-6,https://www.bible.com/bible/59/EPH.1
+1206,Philippians 1-4,https://www.bible.com/bible/59/PHP.1
+1207,1 Timothy 1-6,https://www.bible.com/bible/59/1TI.1
+1208,Titus 1-3,https://www.bible.com/bible/59/TIT.1
+1209,1 Peter 1-5,https://www.bible.com/bible/59/1PE.1
+1210,Hebrews 1-6,https://www.bible.com/bible/59/HEB.1
+1211,Hebrews 7-10,https://www.bible.com/bible/59/HEB.7
+1212,Hebrews 11-13,https://www.bible.com/bible/59/HEB.11
+1213,2 Timothy 1-4,https://www.bible.com/bible/59/2TI.1
+1214,2 Peter 1-3,https://www.bible.com/bible/59/2PE.1
+1214,Jude 1,https://www.bible.com/bible/59/JUD.1
+1215,John 1-2,https://www.bible.com/bible/59/JHN.1
+1216,John 3-4,https://www.bible.com/bible/59/JHN.3
+1217,John 5,https://www.bible.com/bible/59/JHN.5
+1218,John 6,https://www.bible.com/bible/59/JHN.6
+1219,John 7,https://www.bible.com/bible/59/JHN.7
+1220,John 8,https://www.bible.com/bible/59/JHN.8
+1221,John 9-10,https://www.bible.com/bible/59/JHN.9
+1222,John 11-12,https://www.bible.com/bible/59/JHN.11
+1223,John 13-15,https://www.bible.com/bible/59/JHN.13
+1224,John 16-18,https://www.bible.com/bible/59/JHN.16
+1225,John 19-21,https://www.bible.com/bible/59/JHN.19
+1226,1 John 1-5,https://www.bible.com/bible/59/1JN.1
+1227,2 John 1,https://www.bible.com/bible/59/2JN.1
+1227,3 John 1,https://www.bible.com/bible/59/3JN.1
+1228,Revelation 1-5,https://www.bible.com/bible/59/REV.1
+1229,Revelation 6-11,https://www.bible.com/bible/59/REV.6
+1230,Revelation 12-18,https://www.bible.com/bible/59/REV.12
+1231,Revelation 19-22,https://www.bible.com/bible/59/REV.19

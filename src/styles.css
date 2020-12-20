@@ -19,24 +19,13 @@
   border-style: solid;
   border-radius: 5px;
   padding: 5px;
-  margin-top: 10px;
+  margin-top: 20px;
   outline: none;
   box-shadow: none;
 }
 
 .List {
-  border: 1px solid #d9dddd;
-}
-
-.ListItemEven,
-.ListItemOdd {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.ListItemEven {
-  background-color: #f8f8f0;
+  margin-top: 20px;
 }
 
 .ListItem {
