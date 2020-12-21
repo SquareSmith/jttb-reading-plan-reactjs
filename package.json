@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "JTTB Reading Plan",
   "version": "1.0.0",
-  "description": "",
+  "description": "Journey Through The Bible Reading Plan",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -10,6 +10,7 @@
     "react": "16.8.0",
     "react-datepicker": "2.0.0",
     "react-dom": "16.8.0",
+    "react-scripts": "4.0.1",
     "react-window": "1.8.6"
   },
   "devDependencies": {},
