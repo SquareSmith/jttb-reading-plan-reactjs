@@ -6,7 +6,7 @@ import format from "date-fns/format";
 import "react-datepicker/dist/react-datepicker.css";
 import useWindowSize from "./use-window-size";
 import Papa from "papaparse";
-import readingsString from "../jttb.csv";
+import readingsString from "./jttb.csv";
 
 import "./styles.css";
 
