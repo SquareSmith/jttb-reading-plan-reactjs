@@ -1,22 +1,23 @@
 import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom";
 import DatePicker from "react-datepicker";
-import { FixedSizeList as List } from "react-window";
-import format from "date-fns/format";
 import "react-datepicker/dist/react-datepicker.css";
+import format from "date-fns/format";
+import { FixedSizeList as List } from "react-window";
 import useWindowSize from "./use-window-size";
-import Papa from "papaparse";
-import readingsString from "./jttb.csv";
+import readingsJSON from "./jttb";
 
 import "./styles.css";
 
 const rowHeight = 35;
 
-const results = Papa.parse(readingsString, {
-  delimiter: ",",
-  header: true
+const readingsAll = readingsJSON.map((reading) => {
+  return {
+    date: reading.d,
+    text: reading.t,
+    url: reading.u
+  };
 });
-const readingsAll = results.data;
 
 const App = () => {
   const size = useWindowSize();
